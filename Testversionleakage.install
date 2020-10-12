@@ -2,11 +2,11 @@
 	"name": "Testversionleakage",
 	"version": "0.0.1",
 	"icon": "fab fa-battle-net",
-	"category": "undefined",
+	"category": "alice",
 	"author": "Psychokiller1888",
 	"maintainers": [],
 	"desc": "Do not download",
-	"aliceMinVersion": "1.0.0",
+	"aliceMinVersion": "1.0.0-b4",
 	"pipRequirements": [],
 	"systemRequirements":  [],
 	"conditions": {
