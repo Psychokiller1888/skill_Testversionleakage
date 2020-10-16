@@ -1,17 +1,17 @@
 {
-	"name": "Testversionleakage",
-	"version": "0.0.3",
-	"icon": "fab fa-battle-net",
-	"category": "alice",
-	"author": "Psychokiller1888",
-	"maintainers": [],
-	"desc": "Do not download",
-	"aliceMinVersion": "1.0.0-b5",
-	"pipRequirements": [],
-	"systemRequirements":  [],
-	"conditions": {
-		"lang": [
-			"en"
-		]
-	}
+    "name": "Testversionleakage",
+    "version": "0.0.4",
+    "icon": "fab fa-battle-net",
+    "category": "alice",
+    "author": "Psychokiller1888",
+    "maintainers": [],
+    "desc": "Do not download",
+    "aliceMinVersion": "1.0.0-b5",
+    "pipRequirements": [],
+    "systemRequirements": [],
+    "conditions": {
+        "lang": [
+            "en"
+        ]
+    }
 }
